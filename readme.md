@@ -2,9 +2,7 @@
 <h3 align="center">A Full-Stack Developer | Game Dev Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer+from+India;MERN+Stack+%7C+Electron+%7C+UI%2FUX;Unity+Game+Dev+%7C+Blender+%7C+Android+Studio;Let's+Build+Something+Awesome+Together!%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+from+India;MERN+Stack+%7C+Electron;Unity+Game+Dev+%7C+Blender+%7C+Android+Studio;Let's+Build+Something+Awesome+Together!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,9 +45,9 @@ A powerful all-in-one Android calculator app.
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yadnyesh-borole-51aa0532a" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/yadnyeshborole" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://discord.com/users/781764290926739526" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yadnyesh-borole-51aa0532a" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://github.com/ygstudio-game" target="_blank"><img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" height="30" width="30" /></a>
+  <a href="https://discord.com/users/781764290926739526" target="_blank"><img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" height="30" width="30" /></a>
 </p>
 
 ---
