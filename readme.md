@@ -22,7 +22,7 @@
 ---
 
 ### 📱 Featured Project
-<table> <tr> <td align="center" width="30%"> <img src="https://github.com/ygstudio-game/YSWEBSITEe/raw/main/data/finalappicon_round.png" width="100" alt="YG Studio Cal Icon" /> </td> <td width="70%">
+<table> <tr> <td align="center" width="30%"> <img src="Yg-studio-cal.png" width="100" alt="YG Studio Cal Icon" /> </td> <td width="70%">
 <h4>📀 YG Studio Cal</h4>
 A powerful all-in-one Android calculator app.
 
