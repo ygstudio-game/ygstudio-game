@@ -2,7 +2,9 @@
 <h3 align="center">A Full-Stack Developer | Game Dev Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+from+India;MERN+Stack+%7C+Electron;Unity+Game+Dev+%7C+Blender+%7C+Android+Studio;Let's+Build+Something+Awesome+Together!🚀" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer+from+India;MERN+Stack+%7C+Electron+%7C+UI%2FUX;Unity+Game+Dev+%7C+Blender+%7C+Android+Studio;Let's+Build+Something+Awesome+Together!%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
